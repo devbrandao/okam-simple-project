@@ -1,0 +1,6 @@
+.ionic
+.idea
+package-lock.json
+ionic/node_modules
+.sourcemaps
+node_modules
