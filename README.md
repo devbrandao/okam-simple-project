@@ -1,4 +1,4 @@
-# Okam Demo project
+# Angular APP
 
 Technologies used: JavaScript (Node.js, AngularJS, Ionic2), HTML, CSS (SASS, Bootstrap 4)
 
